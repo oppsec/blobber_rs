@@ -1,0 +1,1 @@
+### This project has been created on the intention of learning Rust, nothing new to see here.
